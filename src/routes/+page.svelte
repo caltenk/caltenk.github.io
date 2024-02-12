@@ -1,3 +1,7 @@
+<script>
+  import { base } from "$app/paths";
+</script>
+
 <div class="color-background"/>
 
 <h1>Cameron Altenkirch</h1>
