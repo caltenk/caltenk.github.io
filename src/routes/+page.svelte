@@ -8,17 +8,9 @@
 
 
 <style>
-
-  @font-face {
-    font-family: 'Fjalla One';
-    font-style: normal;
-    font-weight: 500;
-    src: local(""), url("/fonts/FjallaOne-Regular.ttf") format("truetype");
-  }
   
   h1 {
     color: #2c2c2c;
-    font-family: "Fjalla One";
   }
 
   .color-background {
